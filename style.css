@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    margin-top: 2.5%;
+}
+/* 
+div:nth-child(1) {
+    background: grey;
+} */
+
+/* body {
+    background: #fbe5fc;
+} */
+
+body {
+    background: #a5dfdc;
+}
+
+#box {
+    border-radius: 15px;
+    background: rgb(255, 255, 255);
+    width: 450px;
+    height: 300px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+}
+
